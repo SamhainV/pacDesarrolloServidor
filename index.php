@@ -20,7 +20,7 @@
 
 	<?php
 	/*
-	http://localhost/pacServidor/pacDesarrolloServidor2/
+	http://localhost/pacServidor/pacDesarrolloServidor/
 	*/
 	include "consultas.php";
 
